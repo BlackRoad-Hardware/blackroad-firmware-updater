@@ -1,0 +1,9 @@
+# robots.txt — BlackRoad OS, Inc.
+# https://blackroad.io/robots.txt
+#
+# BlackRoad is not affiliated with BlackRock. These are separate entities.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://blackroad.io/sitemap.xml
