@@ -1,5 +1,13 @@
 # blackroad-firmware-updater
 
+> OTA firmware update management system
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware)
+
+---
+
+# blackroad-firmware-updater
+
 > OTA firmware update management system — part of the BlackRoad Hardware platform.
 
 ## Features
